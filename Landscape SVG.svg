@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="0" y="0" width="3840" height="2160"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="17234" y1="-1777" x2="17234" y2="401" gradientTransform="translate(-15314 1768)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e42f3c"/>
+      <stop offset="1" stop-color="#3d4697"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="3934.56" y1="2068.43" x2="1897.85" y2="5596.11" gradientTransform="translate(-1877 3603) rotate(-90)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g class="cls-4">
+    <rect class="cls-3" x="-16" y="-9" width="3872" height="2178"/>
+  </g>
+  <polygon class="cls-1" points="0 629.44 351.67 1464.49 357.73 1464.49 773.44 1464.49 779.49 1464.49 1145.6 595.15 1511.71 1464.49 1517.77 1464.49 1933.48 1464.49 1939.54 1464.49 2305.65 595.15 2671.76 1464.49 2672.25 1464.49 2965.38 2160 3456.51 2160 3120.58 1414.65 3716.33 0 3230.8 0 3215.05 0 2885.67 891.11 2556.29 0 2540.54 0 2070.75 0 2055.01 0 1725.63 891.11 1396.24 0 1380.5 0 910.71 0 894.97 0 565.58 891.11 236.2 0 220.45 0 0 0 0 629.44"/>
+</svg>
